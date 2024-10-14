@@ -1,0 +1,12 @@
+Übungsblatt 1, Aufgabe 2
+1.Zunächst Terminal öffnen.
+2."dir"(Windows) eingeben im Terminal.
+3. "cd home/jinora/progra/Blatt01" eingeben.
+4. "javac Hello.java" eingeben.
+5.  "java Hello" eingeben, wird dadurch ausgeführt
+
+
+
+
+Quellen: https://media.hhu.de/channel/Programmierung-WiSe-242F25/65
+https://www.makeuseof.com/windows-is-command/
